@@ -9,7 +9,7 @@ The correct SHA-1 for the base ROM is **DD5945DB9B930750CB39D00C84DA8571FEEBF417
 [**Make sure to check out the IronMON Patch Editor for FireRed and Emerald!**](https://github.com/DrMaple/IronMONPatchEditor/releases/tag/1.2)
 
 **Super Kaizo Specific Changes:**
-* Hidden Items and Step Items after Mt. Moon outside of dungeons have been removed
+* Hidden Items after Mt. Moon outside of dungeons and all Step Items have been removed
 * You can not progress past Nugget Bridge until Misty has been beaten
 * All rooms on the S.S. Anne that had trainers have been locked
 * You can not enter into Rocket Hideout until Erika has been beaten
